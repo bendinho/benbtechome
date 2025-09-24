@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.embla {
+  overflow: hidden;
+}
+.embla__container {
+  display: flex;
+}
+.embla__slide {
+  flex: 0 0 100%;
+  min-width: 0;
+}
+
+.embla__slide img {width: 100%;}
+
+.sticky-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 1rem;
+width: 108%;
+  color: white;
+  z-index: 1000;
+}
