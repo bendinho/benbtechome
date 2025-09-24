@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faBitcoinSign, faChartLine, faCogs, faCreditCard, faGraduationCap, faHome, faHospital, faShoppingCart} from "@fortawesome/free-solid-svg-icons";
 

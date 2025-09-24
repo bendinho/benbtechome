@@ -1,4 +1,4 @@
-import React from 'react'
+
 import useEmblaCarousel from 'embla-carousel-react'
 import img1 from "../assets/shot1.png";
 import img2 from "../assets/innovateSpace-project.png";

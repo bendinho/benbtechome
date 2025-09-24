@@ -1,4 +1,4 @@
-import React from 'react'
+
 import EmblaCarousel from './EmblaCarousel'
 import TextWriteup from './TextWriteup'
 import ProjectandServiceBtn from './ProjectandServiceBtn'

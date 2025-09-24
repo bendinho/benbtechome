@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { useState } from 'react'
 import buger from "../assets/icons/hambourgerOne.svg"
 import close from "../assets/x.png"
