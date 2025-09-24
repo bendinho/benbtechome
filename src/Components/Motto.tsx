@@ -1,6 +1,6 @@
 
 import { FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faCheckCircle, faHeadset, faShield, faShieldAlt} from "@fortawesome/free-solid-svg-icons"
+import {faCheckCircle, faHeadset, faShieldAlt} from "@fortawesome/free-solid-svg-icons"
 
 function Motto() {
   return (
